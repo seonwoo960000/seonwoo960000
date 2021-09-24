@@ -2,6 +2,7 @@
 
 Welcome to my page!
 I'm Seon Woo Kim(you can call me David) and a backend developer from <font size="5">🇰🇷</font> Korea.
+
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=seonwoo960000&show_icons=true)
 
 ### Things I've used before
