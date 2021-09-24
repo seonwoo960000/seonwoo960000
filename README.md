@@ -2,6 +2,7 @@
 
 Welcome to my page!
 I'm Seon Woo Kim(you can call me David) and a backend developer from <font size="5">🇰🇷</font> Korea.
+
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=seonwoo960000&show_icons=true)
 
 ### Things I've used before
@@ -28,7 +29,6 @@ I'm Seon Woo Kim(you can call me David) and a backend developer from <font size=
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="20"></img>
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" height="20"></img>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="20"></img>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="20"></img>
 <img src="https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white" height="20"></img>
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" height="20"></img>
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="20"></img>
@@ -42,7 +42,7 @@ I'm Seon Woo Kim(you can call me David) and a backend developer from <font size=
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" height="30"/>
     </a> 
     <a href="https://www.linkedin.com/in/seon-woo-kim-53b6481ba/" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30""/>
+        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
     </a> 
     <a href="https://cumulativeskillstack.blogspot.com/" target="_blank">
         <img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" height="30"/>
