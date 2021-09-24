@@ -34,3 +34,16 @@ I'm Seon Woo Kim(you can call me David) and a backend developer from <font size=
 <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" height="20"></img>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="20"></img>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="20"></img>
+
+### Connect me with 
+<p>
+    <a href="https://github.com/seonwoo960000" target="_blank">
+        <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" height="30"/>
+    </a> 
+    <a href="https://cumulativeskillstack.blogspot.com/" target="_blank">
+        <img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" height="30"/>
+    </a> 
+    <a href="https://www.linkedin.com/in/seon-woo-kim-53b6481ba/" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30""/>
+    </a> 
+</p>
