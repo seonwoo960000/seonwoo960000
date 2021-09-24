@@ -2,6 +2,7 @@
 
 Welcome to my page!
 I'm Seon Woo Kim(you can call me David) and a backend developer from <font size="5">🇰🇷</font> Korea.
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=seonwoo960000&show_icons=true)
 
 ### Things I've used before
 
@@ -47,3 +48,4 @@ I'm Seon Woo Kim(you can call me David) and a backend developer from <font size=
         <img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" height="30"/>
     </a> 
 </p>
+
