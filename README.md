@@ -1,4 +1,4 @@
-👨‍💻 Hi Nice to Meet YOU!!
+#Hi Nice to Meet YOU!!👨‍💻 
 
 Welcome to my page!
 I'm Seon Woo Kim(you can call me David) and a backend developer from <font size="5">🇰🇷</font> Korea.
