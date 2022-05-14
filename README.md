@@ -6,7 +6,7 @@ I'm a backend developer from <font size="5">🇰🇷</font> Korea.
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=seonwoo960000&show_icons=true)
 
 ### Things I've done 🗣
-👉 [Click here](https://github.com/seonwoo960000/skill_stack)
+👉 [When I was a student](https://github.com/seonwoo960000/skill_stack)
 
 ### Things I've used before
 
