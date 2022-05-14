@@ -30,7 +30,7 @@ I'm Seon Woo Kim(you can call me David) and a backend developer from <font size=
     <a href="https://www.linkedin.com/in/seon-woo-kim-53b6481ba/" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
     </a> 
-    <a href="https://cumulativeskillstack.blogspot.com/" target="_blank">
+    <a href="https://code-run.tistory.com/" target="_blank">
         <img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" height="30"/>
     </a> 
 </p>
