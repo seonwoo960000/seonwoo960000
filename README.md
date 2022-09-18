@@ -5,9 +5,6 @@ I'm a backend developer from <font size="5">🇰🇷</font> Korea.
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=seonwoo960000&show_icons=true)
 
-### Things I've done 🗣
-👉 [When I was a student](https://github.com/seonwoo960000/skill_stack)
-
 ### Things I've used before
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height="20"></img>
