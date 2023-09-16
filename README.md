@@ -1,6 +1,3 @@
-# WELCOME!!👨‍💻 
-
-Welcome to my page!
 I'm a backend developer from <font size="5">🇰🇷</font> Korea.
 
 ### Things I've used before
