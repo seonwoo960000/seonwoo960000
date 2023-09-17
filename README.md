@@ -7,7 +7,7 @@ I'm a software developer looking for challenges. Call me when you have one.
     - Database: [MySQL](https://code-run.tistory.com/category/Database/DBA%EA%B8%89%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C)
 - Soft Skills
     - [Toastmasters](https://www.toastmasters.org/Find-a-Club/05820825-05820825)
-    - Mentoring Junior Software Developers      
+    - Mentoring Software Developers      
 
 ### Open Source Contribution 
 - [Armeria](https://github.com/line/armeria/pulls?q=author%3Aseonwoo960000+)
