@@ -1,4 +1,4 @@
-👨‍💻 👨‍💻 👨‍💻 
+👨‍💻 👨‍💻 👨‍💻 <br> 
 I'm a software developer looking for challenges. Call me when you have one or I'll go find you. 
 
 ### Things I'm Into 
