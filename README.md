@@ -1,4 +1,4 @@
-I'm a software developer looking for challenges. Call be when you have one. 
+I'm a software developer looking for challenges. Call me when you have one. 
 
 ### Things I'm Into 
 - Programming Language: Java, Kotlin, Rust 
