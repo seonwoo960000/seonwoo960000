@@ -10,6 +10,9 @@ I'm a software developer looking for challenges. Call me when you have one or I'
     - [Toastmasters](https://www.toastmasters.org/Find-a-Club/05820825-05820825)
     - Mentoring Software Developers      
 
+### Open Source 
+- [AI Sidebar](https://github.com/seonwoo960000/ai-sidebar)
+
 ### Open Source Contribution 
 - [Armeria](https://github.com/line/armeria/pulls?q=author%3Aseonwoo960000+)
 - [Spring Batch](https://github.com/spring-projects/spring-batch/issues?q=author%3Aseonwoo960000+)
