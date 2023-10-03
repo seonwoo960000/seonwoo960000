@@ -3,8 +3,9 @@ I'm a software developer looking for challenges. Call me when you have one or I'
 
 ### Things I'm Into 
 - Tech 
-    - Programming Language: Java, Kotlin
-    - Server technology: Spring, Armeria 
+    - Programming Language: Java, Kotlin, Javascript/Typescript and little bit of Python, Rust, C/C++
+    - Frontend tech: Vue
+    - Backend techn: Spring, Armeria 
     - Database: [MySQL](https://code-run.tistory.com/category/Database/DBA%EA%B8%89%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C)
 - Soft Skills
     - [Toastmasters](https://www.toastmasters.org/Find-a-Club/05820825-05820825)
