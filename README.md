@@ -11,11 +11,12 @@ I'm a software developer looking for challenges. Call me when you have one or I'
     - [Toastmasters](https://www.toastmasters.org/Find-a-Club/05820825-05820825)
     - Software Developer Mentorship       
 
-### Open Source 
-- [AI Sidebar](https://github.com/seonwoo960000/ai-sidebar)
+### Open Source
 - [Armeria](https://github.com/line/armeria/pulls?q=author%3Aseonwoo960000+)
 - [Spring Batch](https://github.com/spring-projects/spring-batch/issues?q=author%3Aseonwoo960000+)
 - [Spring Cloud Dataflow](https://github.com/spring-cloud/spring-cloud-dataflow/issues?q=author%3Aseonwoo960000)
+- [Rewrite](https://github.com/openrewrite/rewrite)
+- [AI Sidebar](https://github.com/seonwoo960000/ai-sidebar)
 
 ### Blog 
 - [Korean](https://code-run.tistory.com/)
