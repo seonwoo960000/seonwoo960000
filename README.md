@@ -8,7 +8,7 @@ I'm a software developer looking for challenges. Call me when you have one or I'
     - Backend: Spring, Armeria, K8s
     - Database: [MySQL](https://code-run.tistory.com/category/Database/DBA%EA%B8%89%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C)
 - Soft Skills
-    - [Toastmasters](https://www.toastmasters.org/Find-a-Club/05820825-05820825)
+    - [Toastmasters](https://www.instagram.com/hongdaetoastmasters/?utm_source=qr&igsh=YzU1NGVlODEzOA%3D%3D)
     - Software Developer Mentorship       
 
 ### Open Source
