@@ -15,12 +15,11 @@ I'm a software developer looking for challenges. Call me when you have one or I'
 - [Armeria](https://github.com/line/armeria/pulls?q=author%3Aseonwoo960000+)
 - [Spring Batch](https://github.com/spring-projects/spring-batch/issues?q=author%3Aseonwoo960000+)
 - [Spring Cloud Dataflow](https://github.com/spring-cloud/spring-cloud-dataflow/issues?q=author%3Aseonwoo960000)
-- [Rewrite](https://github.com/openrewrite/rewrite)
+- [Rewrite](https://github.com/openrewrite/rewrite/pulls?q=author%3Aseonwoo960000+)
 - [AI Sidebar](https://github.com/seonwoo960000/ai-sidebar)
 
 ### Blog 
 - [Korean](https://code-run.tistory.com/)
-- [English - not maintained](https://cumulativeskillstack.blogspot.com/)
 
 ### Connect me with 
 <p>
