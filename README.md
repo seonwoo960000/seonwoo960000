@@ -1,7 +1,7 @@
-### Things I'm Into 
+### Things I'm Interested In 
 - Tech
     - Open Source: Armeria, Spring, etc 
-    - Programming Language: Java, Kotlin, etc 
+    - Programming Language: Java, Kotlin, Rust, etc 
     - Others: Spring, Armeria, React, Vue, K8s
     - Database: MySql
 - Soft Skills
